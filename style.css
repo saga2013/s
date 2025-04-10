@@ -1,0 +1,40 @@
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body {
+    background: linear-gradient(135deg, #667eea, #764ba2);}
+#container{
+    width: 600px;
+    height: 500px;
+    background-color:  rgb(47, 47, 114);
+    text-align: center;
+    margin:100px auto;
+    color: white;
+    padding-top: 30px;
+    border-radius: 30px;
+}
+#input{
+    width: 480px;
+    height: 200px;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+#select{
+    width: 405px;
+    height: 40px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+   
+}
+
+
+#btn{
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #1e90ff;
+    color: white;
+}
